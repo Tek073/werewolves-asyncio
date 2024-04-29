@@ -12,8 +12,25 @@ website: werewolves.cs.unm.edu
 
 Virtual Werewolves is a Linux based, multiplayer game designed to teach Cybersecurity. Players must exploit inference channels in the Linux kernel to identify other's identities and conceal their own.
 
-You sohuld just need to run...
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Group members: Nathan Bandemer, Hunter White, Ryan Pettinato, Zaid Usmani
+
+CHANGES MADE: The focus of the refactoring was to implement the asnycio library in order to fix various vulnerabilities that arose from
+multithreading (TOCTOU and PID). To do this threads and pipes were eliminated in favor of the async definitions. In its most basic form,
+async defined functions are only able to run on one thread. By centralizing any threading into this library we can have a game that flows
+simpler without all the overhead of using threads.
+
+*** This refactor was done in PYTHON3 ***
+
+You should just need to run...
 
 sudo ./install.sh
 
 ...to get it installed.
+
+After ./install is ran then python3, and all asyncio libraries should be installed as well.
+
+To run server.py or client.py do "python3 server.py" or "python3 client.py
+
+NOTE: MAKE SURE TO USE ./install because there are certain library dependencies that need to be fufilled. 
+
