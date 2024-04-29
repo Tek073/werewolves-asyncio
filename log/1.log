@@ -1,0 +1,30 @@
+(1714334024) - GAME: 1
+(1714334084) - 
+Begin.
+(1714334084) - 
+
+
+(1714334084) - Round 1
+(1714334084) - Townspeople: ['player2', 'player0', 'player1']
+(1714334084) - Night
+(1714334085) - Werewolves debate
+(1714334145) - Werewolves vote
+(1714334161) - Werewolves selected player2
+(1714334161) - Witch vote
+(1714334167) - It is day.  Everyone, ['player0', 'player1', 'player2'], open your eyes.  You will have 180 seconds to discuss who the werewolves are.
+(1714334168) - Day-townspeople debate
+(1714334172) - player2-bruhhh
+(1714334348) - Townspeople vote
+(1714334348) - Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['player0', 'player1', 'player2']
+(1714334358) - player1 voted.
+(1714334362) - player0 voted.
+(1714334366) - player2 voted.
+(1714334367) - {'player2': 2, 'player1': 1}
+(1714334367) - The town voted to hang player2!
+(1714334367) - Townspeople killed player2
+(1714334367) - These are player2s last words.
+(1714334371) - player2-Noooo
+(1714334376) - player2-jerks
+(1714334397) - 
+Werewolves win
+(1714334397) - End

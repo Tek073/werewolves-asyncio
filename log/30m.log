@@ -1,0 +1,47 @@
+Moderator Log
+(1714351967) - GAME: 30
+(1714351967) - 
+moderator listener thread started
+(1714351977) - There are 2 wolves, and 1 townspeople.
+(1714351977) - 
+
+
+(1714351977) - **************************************************
+(1714351977) - *********************ROUND 1**********************
+(1714351977) - ***************3 players remain.******************
+(1714351977) - **************************************************
+(1714351977) - Townspeople: ['player0', 'player2', 'player1']
+(1714351977) - Werewolves: ['player0', 'player1']
+(1714351977) - Witch: ['player2']
+(1714351977) - Night falls and the town sleeps.  Everyone close your eyes
+(1714351978) - Werewolves, open your eyes.
+(1714351978) - Werewolves, ['player0', 'player1'], you must choose a victim.  You have 10 seconds to discuss.  Possible victims are ['player0', 'player1', 'player2']
+(1714351982) - player1-s
+(1714351988) - Werewolves, vote.
+(1714351988) - Werewolves, you must vote on a victim to eat.  You have 45 seconds to vote.  Valid votes are ['player0', 'player1', 'player2'].
+(1714351994) - player1 voted for player2
+(1714351994) - player1 voted.
+(1714351994) - Wolf vote received.
+(1714352003) - player0 voted for player2
+(1714352003) - player0 voted.
+(1714352003) - Wolf vote received.
+(1714352034) - {'player2': 2}
+(1714352034) - Werewolves, go to sleep.
+(1714352034) - Werewolves, you selected to eat player2
+(1714352034) - Witch, open your eyes.
+(1714352034) - The witch is now voting...
+(1714352047) - player2 voted for Pass
+(1714352047) - Witch voted
+(1714352080) - {'Pass': 1}
+(1714352080) - Witch passed
+(1714352080) - Witch, close your eyes
+(1714352080) - The werewolves ate player2!
+(1714352081) - player0-wolf killed.
+(1714352081) - player1-wolf killed.
+(1714352081) - player2-witch killed
+(1714352081) - These are player2s last words.
+(1714352084) - player2-NOOO
+(1714352089) - player2-LETS GOOOO
+(1714352091) - Werewolves win
+(1714352091) - close
+(1714352091) - End

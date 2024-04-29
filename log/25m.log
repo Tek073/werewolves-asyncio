@@ -1,0 +1,64 @@
+Moderator Log
+(1714347000) - GAME: 25
+(1714347000) - 
+moderator listener thread started
+(1714347005) - player0 connected
+(1714347012) - player1 connected
+(1714347016) - player2 connected
+(1714347045) - roles assigned
+(1714347045) - group chat thread started
+(1714347045) - 
+Begin.
+(1714347045) - There are 2 wolves, and 1 townspeople.
+(1714347045) - 
+
+
+(1714347045) - **************************************************
+(1714347045) - *********************ROUND 1**********************
+(1714347045) - ***************3 players remain.******************
+(1714347045) - **************************************************
+(1714347046) - Townspeople: ['player0', 'player1', 'player2']
+(1714347046) - Werewolves: ['player0', 'player1']
+(1714347046) - Witch: ['player2']
+(1714347046) - Night falls and the town sleeps.  Everyone close your eyes
+(1714347046) - Werewolves, open your eyes.
+(1714347046) - Werewolves, ['player0', 'player1'], you must choose a victim.  You have 10 seconds to discuss.  Possible victims are ['player0', 'player1', 'player2']
+(1714347056) - Werewolves, vote.
+(1714347056) - Werewolves, you must vote on a victim to eat.  You have 45 seconds to vote.  Valid votes are ['player0', 'player1', 'player2'].
+(1714347102) - {}
+(1714347102) - Werewolves, go to sleep.
+(1714347102) - Vote not unanimous, nobody eaten.
+(1714347102) - Witch, open your eyes.
+(1714347102) - The witch is now voting...
+(1714347149) - {}
+(1714347149) - Witch passed
+(1714347149) - Witch, close your eyes
+(1714347149) - It is day.  Everyone, ['player0', 'player1', 'player2'], open your eyes.  You will have 15 seconds to discuss who the werewolves are.
+(1714347164) - Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['player0', 'player1', 'player2']
+(1714347210) - {}
+(1714347210) - The vote resulted in a tie between players [], so nobody dies today.
+(1714347210) - 
+
+
+(1714347210) - **************************************************
+(1714347210) - *********************ROUND 2**********************
+(1714347210) - ***************3 players remain.******************
+(1714347210) - **************************************************
+(1714347210) - Townspeople: ['player0', 'player1', 'player2']
+(1714347210) - Werewolves: ['player0', 'player1']
+(1714347210) - Witch: ['player2']
+(1714347210) - Night falls and the town sleeps.  Everyone close your eyes
+(1714347211) - Werewolves, open your eyes.
+(1714347211) - Werewolves, ['player0', 'player1'], you must choose a victim.  You have 10 seconds to discuss.  Possible victims are ['player0', 'player1', 'player2']
+(1714347221) - Werewolves, vote.
+(1714347221) - Werewolves, you must vote on a victim to eat.  You have 45 seconds to vote.  Valid votes are ['player0', 'player1', 'player2'].
+(1714347267) - {}
+(1714347267) - Werewolves, go to sleep.
+(1714347267) - Vote not unanimous, nobody eaten.
+(1714347267) - Witch, open your eyes.
+(1714347267) - The witch is now voting...
+(1714347313) - {}
+(1714347313) - Witch passed
+(1714347313) - Witch, close your eyes
+(1714347314) - It is day.  Everyone, ['player0', 'player1', 'player2'], open your eyes.  You will have 15 seconds to discuss who the werewolves are.
+(1714347329) - Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['player0', 'player1', 'player2']

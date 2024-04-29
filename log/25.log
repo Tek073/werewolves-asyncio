@@ -1,0 +1,36 @@
+(1714347000) - GAME: 25
+(1714347045) - 
+Begin.
+(1714347045) - 
+
+
+(1714347046) - Round 1
+(1714347046) - Townspeople: ['player0', 'player1', 'player2']
+(1714347046) - Night
+(1714347046) - Werewolves debate
+(1714347056) - Werewolves vote
+(1714347102) - Werewolves not unanimous
+(1714347102) - Witch vote
+(1714347149) - Witch passed
+(1714347149) - It is day.  Everyone, ['player0', 'player1', 'player2'], open your eyes.  You will have 15 seconds to discuss who the werewolves are.
+(1714347149) - Day-townspeople debate
+(1714347164) - Townspeople vote
+(1714347164) - Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['player0', 'player1', 'player2']
+(1714347210) - {}
+(1714347210) - The vote resulted in a tie between players [], so nobody dies today.
+(1714347210) - Townspeople vote tie
+(1714347210) - 
+
+
+(1714347210) - Round 2
+(1714347210) - Townspeople: ['player0', 'player1', 'player2']
+(1714347211) - Night
+(1714347211) - Werewolves debate
+(1714347221) - Werewolves vote
+(1714347267) - Werewolves not unanimous
+(1714347267) - Witch vote
+(1714347313) - Witch passed
+(1714347314) - It is day.  Everyone, ['player0', 'player1', 'player2'], open your eyes.  You will have 15 seconds to discuss who the werewolves are.
+(1714347314) - Day-townspeople debate
+(1714347329) - Townspeople vote
+(1714347329) - Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['player0', 'player1', 'player2']

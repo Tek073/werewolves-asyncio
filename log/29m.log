@@ -1,0 +1,24 @@
+Moderator Log
+(1714351149) - GAME: 29
+(1714351149) - 
+moderator listener thread started
+(1714351159) - Townspeople: ['player0', 'player2', 'player1']
+(1714351159) - Werewolves: ['player0', 'player2']
+(1714351159) - Witch: ['player1']
+(1714351175) - player2 voted for player1
+(1714351179) - player0 voted for player1
+(1714351216) - {'player1': 2}
+(1714351222) - player1 voted for Heal
+(1714351262) - {'Heal': 1}
+(1714351285) - player1 voted for player0
+(1714351289) - player2 voted for player0
+(1714351292) - player0 voted for player1
+(1714351324) - {'player0': 2, 'player1': 1}
+(1714351324) - Townspeople: ['player2', 'player1']
+(1714351324) - Werewolves: ['player2']
+(1714351324) - Witch: ['player1']
+(1714351352) - player2 voted for player1
+(1714351371) - {'player1': 1}
+(1714351395) - player1 voted for player2
+(1714351417) - {'player2': 1}
+(1714351418) - End
